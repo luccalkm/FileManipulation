@@ -1,0 +1,15 @@
+C:\tmp\FileManipulation\FileManipulation\bin\Debug\net6.0\FileManipulation.exe
+C:\tmp\FileManipulation\FileManipulation\bin\Debug\net6.0\FileManipulation.deps.json
+C:\tmp\FileManipulation\FileManipulation\bin\Debug\net6.0\FileManipulation.runtimeconfig.json
+C:\tmp\FileManipulation\FileManipulation\bin\Debug\net6.0\FileManipulation.dll
+C:\tmp\FileManipulation\FileManipulation\bin\Debug\net6.0\FileManipulation.pdb
+C:\tmp\FileManipulation\FileManipulation\obj\Debug\net6.0\FileManipulation.csproj.AssemblyReference.cache
+C:\tmp\FileManipulation\FileManipulation\obj\Debug\net6.0\FileManipulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\tmp\FileManipulation\FileManipulation\obj\Debug\net6.0\FileManipulation.AssemblyInfoInputs.cache
+C:\tmp\FileManipulation\FileManipulation\obj\Debug\net6.0\FileManipulation.AssemblyInfo.cs
+C:\tmp\FileManipulation\FileManipulation\obj\Debug\net6.0\FileManipulation.csproj.CoreCompileInputs.cache
+C:\tmp\FileManipulation\FileManipulation\obj\Debug\net6.0\FileManipulation.dll
+C:\tmp\FileManipulation\FileManipulation\obj\Debug\net6.0\refint\FileManipulation.dll
+C:\tmp\FileManipulation\FileManipulation\obj\Debug\net6.0\FileManipulation.pdb
+C:\tmp\FileManipulation\FileManipulation\obj\Debug\net6.0\FileManipulation.genruntimeconfig.cache
+C:\tmp\FileManipulation\FileManipulation\obj\Debug\net6.0\ref\FileManipulation.dll

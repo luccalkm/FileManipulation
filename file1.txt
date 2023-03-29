@@ -1,0 +1,4 @@
+TV LED,1290.99,1
+Video Game Chari,350.50,3
+Iphone X,900.00,2
+Samsung Galaxy,9850.00,2
